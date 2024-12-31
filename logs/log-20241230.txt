@@ -1,0 +1,12 @@
+2024-12-30 17:51:04.015 +05:30 [INF] Now listening on: http://localhost:5146
+2024-12-30 17:51:04.107 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 17:51:04.109 +05:30 [INF] Hosting environment: Development
+2024-12-30 17:51:04.110 +05:30 [INF] Content root path: /home/professor/professor/programming/ASP.NETcore/HotelListingAPI
+2024-12-30 19:06:22.436 +05:30 [INF] Now listening on: http://localhost:5146
+2024-12-30 19:06:22.526 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 19:06:22.528 +05:30 [INF] Hosting environment: Development
+2024-12-30 19:06:22.528 +05:30 [INF] Content root path: /home/professor/professor/programming/ASP.NETcore/HotelListingAPI
+2024-12-30 19:59:11.207 +05:30 [INF] Now listening on: http://localhost:5146
+2024-12-30 19:59:11.312 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 19:59:11.313 +05:30 [INF] Hosting environment: Development
+2024-12-30 19:59:11.314 +05:30 [INF] Content root path: /home/professor/professor/programming/ASP.NETcore/HotelListingAPI
