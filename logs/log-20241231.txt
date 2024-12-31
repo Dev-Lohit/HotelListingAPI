@@ -1,0 +1,14 @@
+2024-12-31 14:46:25.562 +05:30 [INF] Now listening on: http://localhost:5146
+2024-12-31 14:46:25.629 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-31 14:46:25.631 +05:30 [INF] Hosting environment: Development
+2024-12-31 14:46:25.631 +05:30 [INF] Content root path: /home/professor/professor/programming/ASP.NETcore/HotelListingAPI
+2024-12-31 14:47:45.398 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-12-31 14:47:47.779 +05:30 [INF] HTTP POST /api/countries responded 201 in 2391.0120 ms
+2024-12-31 14:52:10.248 +05:30 [INF] HTTP POST /api/Countries responded 400 in 57.6470 ms
+2024-12-31 14:52:25.675 +05:30 [INF] HTTP POST /api/Countries responded 201 in 168.1623 ms
+2024-12-31 14:57:49.577 +05:30 [INF] HTTP GET /api/Countries responded 200 in 700.5261 ms
+2024-12-31 14:59:17.943 +05:30 [INF] HTTP GET /api/Countries/1001 responded 200 in 245.3228 ms
+2024-12-31 14:59:24.614 +05:30 [INF] HTTP GET /api/Countries/2 responded 200 in 14.9434 ms
+2024-12-31 15:58:54.912 +05:30 [INF] HTTP PUT /api/Countries/1002 responded 400 in 35.4774 ms
+2024-12-31 15:59:18.257 +05:30 [INF] HTTP PUT /api/Countries/1002 responded 204 in 351.8527 ms
+2024-12-31 15:59:33.859 +05:30 [INF] HTTP GET /api/Countries responded 200 in 31.9111 ms
